@@ -22,7 +22,7 @@ A little disheartened, but undeterred, I set about to make my *own* tool librari
 Using the [Fusion 360 tool library](https://support.bantamtools.com/hc/en-us/articles/115001671594-Fusion-360-Tool-Library) as a template, I made duplicate tool libraries for each entry on the materials page at bantamtools.com.
 
 Here are links to download the Fusion 360 tool libraries I created:
-- [ABS]({{site.static_files.}})
+- [ABS]()
 <!-- - [Acrylic]()
 - [Aluminum]()
 - [Brass]()
