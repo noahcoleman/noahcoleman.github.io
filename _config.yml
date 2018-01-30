@@ -36,6 +36,8 @@ smart_quotes:   lsquo,rsquo,ldquo,rdquo
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
+  # - jekyll-seo-tag
 
 # Defaults to apply
 defaults:
