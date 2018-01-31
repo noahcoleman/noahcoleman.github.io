@@ -17,7 +17,8 @@ title: Noah Coleman
 email: noah@noahcoleman.net
 description: >- # this means to ignore newlines until "baseurl:"
   Artist, educator, and maker.
-baseurl: "/noahcoleman.net" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
+# noahcoleman.net
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: noah.s.coleman
 instagram_username: noah.s.coleman
