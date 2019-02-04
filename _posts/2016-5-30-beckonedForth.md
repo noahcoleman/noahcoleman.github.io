@@ -12,6 +12,7 @@ image-caption:
 
 tags: laser servo "new media" "art & tech" projection 2016 GITD phosphorescent SAIC MFA arduino raspi dark light kinetic 3DP "digital fabrication"
 excerpt_separator: <!--more-->
+published: false
 ---
 
 
