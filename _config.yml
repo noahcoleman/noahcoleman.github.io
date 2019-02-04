@@ -42,12 +42,13 @@ plugins:
 
 # Defaults to apply
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      author: "Noah"
+  # -
+  #   scope:
+  #     path: ""
+  #     type: "posts"
+  #   values:
+  #     author: "Noah"
+  # These above values apply to all posts on the site.
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
