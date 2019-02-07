@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: landing
 ---
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Noah Coleman's Site</h1>
 
   {{ content }}
 
@@ -17,7 +17,7 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
-        
+
     {% if post.thumbnail %}
         <p><img src="{{ site.baseurl }}/assets/img/{{ post.thumbnail }}" alt="{{ post.title }}" class="img-responsive" style="width:300px;height:auto;"</p>
         <p>{{ post.excerpt | strip_html | truncatewords:50 }}</p>
